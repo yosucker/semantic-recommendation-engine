@@ -4,7 +4,7 @@ A semantic book recommendation system built with Python, LangChain, Hugging Face
 
 The application allows users to describe the type of book they are looking for using natural language and receive relevant book recommendations. Users can also refine recommendations based on book category and emotional tone.
 
-(images/image1.png)
+![Semantic Book Recommender](images/image1.png)
 
 ## Overview
 
